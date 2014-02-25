@@ -1,0 +1,12 @@
+body {
+    background: white url("images/background.gif") repeat-x top;
+}
+
+h1 {
+    color: white;
+    margin: 1em;
+}
+
+li a {
+    color: green;
+}
